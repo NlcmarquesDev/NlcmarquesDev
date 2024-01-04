@@ -1,6 +1,12 @@
-### Hello! I'm José Nuno Marques 👋🏼 🇬🇧
-##### Hallo! Ik ben José Nuno Marques 👋🏼 🇧🇪
-##### Olá! eu sou o José Nuno Marques 👋🏼 🇵🇹
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nlcmarquesdev.nlcmarquesdev" align="right"/>
+
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+Jos%C3%A9+Nuno+Marques+%F0%9F%91%8B%F0%9F%8F%BC+%F0%9F%87%AC%F0%9F%87%A7;Hallo!+Ik+ben+Jos%C3%A9+Nuno+Marques+%F0%9F%91%8B%F0%9F%8F%BC+%F0%9F%87%A7%F0%9F%87%AA;Ol%C3%A1!+eu+sou+o+Jos%C3%A9+Nuno+Marques+%F0%9F%91%8B%F0%9F%8F%BC+%F0%9F%87%B5%F0%9F%87%B9)](https://git.io/typing-svg)
+
+</h1>
+
 
 [![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://nunomarquesdev.com)
 [![whatsApp](https://img.shields.io/badge/Ask%20me-whatsApp-1abc9c.svg)](https://wa.me/32468431823)
