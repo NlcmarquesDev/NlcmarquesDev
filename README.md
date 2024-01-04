@@ -2,9 +2,8 @@
 ##### Hallo! Ik ben José Nuno Marques 👋🏼 🇧🇪
 ##### Olá! eu sou o José Nuno Marques 👋🏼 🇵🇹
 
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nunomarquesdev.com)
-[![whatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/32468431823)
-[![nunolcmarques@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:nunolcmarques@gmail.com)
+[![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://nunomarquesdev.com)
+[![whatsApp](https://img.shields.io/badge/Ask%20me-whatsApp-1abc9c.svg)](https://wa.me/32468431823)
 <br/>
 <br/>
 <br/>
@@ -26,9 +25,8 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" align="center" alt="php"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align="center" alt="typescript"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" align="center" alt="laravel"/> 
-   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logohttps://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="mysql"/> 
-     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" align="center" alt="markdown"/>
-
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="mysql"/> 
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" align="center" alt="markdown"/>
 </div>
 
 <br/>
