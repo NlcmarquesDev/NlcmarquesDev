@@ -11,7 +11,7 @@
   
   👨🏻‍💻  I'm current build in a ** management padel court renting **
   
-  📖  I'm current learning ** Java, Tailwind, mongodb **
+  📖  I'm current improving ** tests PHP, Docker, mongodb **
   
    ⚡ Fun Fact ** Father from 3 kids, coffe lover, and padel player ** 
   
